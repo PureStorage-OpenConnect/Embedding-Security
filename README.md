@@ -23,6 +23,6 @@ This will install all necessary packages, including numpy, torch, sentence-trans
 Running the Simulation
 Once the installation is complete, you can run the simulation script directly from your terminal:
 
-python3 embedding_vers3.py
+python3 simulation_embedding.py
 
 The script will then execute the simulation, printing the original secret, the generated "anonymous" vector, the discovered semantic keywords, and the final reconstructed text to your console.
