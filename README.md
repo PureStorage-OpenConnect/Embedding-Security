@@ -28,6 +28,11 @@ python3 simulation_embedding.py
 The script will then execute the simulation, printing the original secret, the generated "anonymous" vector, the discovered semantic keywords, and the final reconstructed text to your console.
 
 ###########################################################
+
+
+
+
+
 Second script demonstrate  Data Poisoning the AI's knowledge base to skew its output or inject bias.	Uploading malicious documents or compromising data feeds before they are vectorized.
 
 
